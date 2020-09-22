@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38124b79-8f2c-4441-9cb0-e255277bb166" name="Default Changelist" comment="Added Example 1">
+      <change beforePath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example1/ExampleUsecase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example1/ExampleUsecase.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1hriv5RdS1vxqZFLRf4bsGdYa4V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EstimationEvaluation" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.tenebraex8.kotlin.annotations.example1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ExampleUsecaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-annotations" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.tenebraex8.kotlin.annotations.example1.ExampleUsecaseKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ExampleUsecaseKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38124b79-8f2c-4441-9cb0-e255277bb166" name="Default Changelist" comment="" />
+      <created>1600775838520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600775838520</updated>
+      <workItem from="1600775841112" duration="816000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Example 1">
+      <created>1600776143221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600776143221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Example 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Example 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3980" y="-612" key="#Project_Structure" timestamp="1600775847083">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state x="3980" y="-612" key="#Project_Structure/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600775847083" />
+    <state x="4266" y="-407" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1600775996074">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state x="4266" y="-407" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600775996074" />
+    <state width="1674" height="396" key="GridCell.Tab.0.bottom" timestamp="1600776301885">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
+    <state width="1674" height="396" key="GridCell.Tab.0.center" timestamp="1600776301885">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="396" key="GridCell.Tab.0.center/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
+    <state width="1674" height="396" key="GridCell.Tab.0.left" timestamp="1600776301885">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="396" key="GridCell.Tab.0.left/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
+    <state width="1674" height="396" key="GridCell.Tab.0.right" timestamp="1600776301885">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="396" key="GridCell.Tab.0.right/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
+    <state x="4092" y="-454" key="Vcs.Push.Dialog.v2" timestamp="1600776622745">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state x="4092" y="-454" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776622745" />
+    <state x="4309" y="-273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600776609504">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state x="4309" y="-273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776609504" />
+    <state x="4274" y="-285" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600776433262">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state x="4274" y="-285" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776433262" />
+  </component>
+</project>
