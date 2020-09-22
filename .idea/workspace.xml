@@ -10,8 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38124b79-8f2c-4441-9cb0-e255277bb166" name="Default Changelist" comment="Added Example 1">
-      <change beforePath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example1/ExampleUsecase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example1/ExampleUsecase.kt" afterDir="false" />
+    <list default="true" id="38124b79-8f2c-4441-9cb0-e255277bb166" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example2/CSVClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example2/CSVParser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example2/CSVProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tenebraex8/kotlin/annotations/example2/ExampleUsecase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin-annotations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin-annotations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-annotations/META-INF/kotlin-annotations.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-annotations/META-INF/kotlin-annotations.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin Object" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -56,7 +64,20 @@
       <recent name="com.tenebraex8.kotlin.annotations.example1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.ExampleUsecaseKt (1)">
+    <configuration name="ExampleUsecaseKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-annotations" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.tenebraex8.kotlin.annotations.example2.ExampleUsecaseKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleUsecaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-annotations" />
       <option name="VM_PARAMETERS" />
@@ -72,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExampleUsecaseKt (1)" />
         <item itemvalue="Kotlin.ExampleUsecaseKt" />
       </list>
     </recent_temporary>
@@ -86,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600775838520</updated>
-      <workItem from="1600775841112" duration="816000" />
+      <workItem from="1600775841112" duration="8087000" />
     </task>
     <task id="LOCAL-00001" summary="Added Example 1">
       <created>1600776143221</created>
@@ -95,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600776143221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1600776699872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600776699872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Example 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Example 1" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3980" y="-612" key="#Project_Structure" timestamp="1600775847083">
@@ -125,26 +155,46 @@
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
     <state x="4266" y="-407" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600775996074" />
-    <state width="1674" height="396" key="GridCell.Tab.0.bottom" timestamp="1600776301885">
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1600783275718">
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
-    <state width="1674" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
-    <state width="1674" height="396" key="GridCell.Tab.0.center" timestamp="1600776301885">
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600783275718" />
+    <state width="1674" height="396" key="GridCell.Tab.0.bottom" timestamp="1600784008334">
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
-    <state width="1674" height="396" key="GridCell.Tab.0.center/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
-    <state width="1674" height="396" key="GridCell.Tab.0.left" timestamp="1600776301885">
+    <state width="1674" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600784008334" />
+    <state width="1674" height="396" key="GridCell.Tab.0.center" timestamp="1600784008334">
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
-    <state width="1674" height="396" key="GridCell.Tab.0.left/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
-    <state width="1674" height="396" key="GridCell.Tab.0.right" timestamp="1600776301885">
+    <state width="1674" height="396" key="GridCell.Tab.0.center/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600784008334" />
+    <state width="1674" height="396" key="GridCell.Tab.0.left" timestamp="1600784008334">
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
-    <state width="1674" height="396" key="GridCell.Tab.0.right/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776301885" />
-    <state x="4092" y="-454" key="Vcs.Push.Dialog.v2" timestamp="1600776622745">
+    <state width="1674" height="396" key="GridCell.Tab.0.left/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600784008334" />
+    <state width="1674" height="396" key="GridCell.Tab.0.right" timestamp="1600784008334">
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
-    <state x="4092" y="-454" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776622745" />
+    <state width="1674" height="396" key="GridCell.Tab.0.right/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600784008334" />
+    <state width="1674" height="486" key="GridCell.Tab.1.bottom" timestamp="1600783556580">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="486" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600783556580" />
+    <state width="1674" height="486" key="GridCell.Tab.1.center" timestamp="1600783556580">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="486" key="GridCell.Tab.1.center/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600783556580" />
+    <state width="1674" height="486" key="GridCell.Tab.1.left" timestamp="1600783556580">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="486" key="GridCell.Tab.1.left/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600783556580" />
+    <state width="1674" height="486" key="GridCell.Tab.1.right" timestamp="1600783556580">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="486" key="GridCell.Tab.1.right/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600783556580" />
+    <state x="4092" y="-454" key="Vcs.Push.Dialog.v2" timestamp="1600776704540">
+      <screen x="1920" y="-890" width="3440" height="1400" />
+    </state>
+    <state x="4092" y="-454" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-890.3440.1400@1920.-890.3440.1400" timestamp="1600776704540" />
     <state x="4309" y="-273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600776609504">
       <screen x="1920" y="-890" width="3440" height="1400" />
     </state>
